@@ -1,0 +1,16 @@
+{
+    "name": "sanjeev-kr/csv-file-handler",
+    "description": "CSV file handler",
+    "version": "1.0.0",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sanjeev Kumar"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Sanjeev\\File\\Handler\\": "./src/File/Handler/"
+        }
+    }
+}
